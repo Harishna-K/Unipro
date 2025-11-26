@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pydantic
+alembic
+python-multipart
+pydantic[email]
+fastapi-utils
